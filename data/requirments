@@ -1,0 +1,12 @@
+Dataset: Telco Customer Churn (IBM)
+
+Source:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Instructions:
+1. Download the dataset from Kaggle using the link above.
+2. Place the CSV file into this directory.
+3. Rename the file to: raw_data.csv
+
+Expected path:
+data/raw_data.csv
