@@ -10,3 +10,11 @@ Instructions:
 
 Expected path:
 data/raw_data.csv
+
+Python Dependencies Required to Run the Project:
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+- jupyter
